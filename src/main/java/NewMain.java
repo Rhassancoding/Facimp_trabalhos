@@ -7,7 +7,7 @@ public class NewMain {
         Scanner   upoald_date = new Scanner(System.in); // 
         
             String nome = upoald_date.next();
-            System.err.println(nome);
+            System.out.println(nome);
         
     }
     
